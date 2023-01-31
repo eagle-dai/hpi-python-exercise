@@ -1,0 +1,3 @@
+FPy16 Character Strings
+======================
+Fundamentals of Programming Part 2: Python

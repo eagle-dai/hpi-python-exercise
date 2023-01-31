@@ -1,0 +1,13 @@
+FPy17 Linter practice
+======================
+This script is a working program with the two functions `triangle()` and `square()` (with `turtle` drawing code) and yields the desired result.  
+You can run it right away :). However, it violates many conventions of coding style guides.  
+Before working on it, feel free to copy the script to your usual Python environment and check out the linter feedback there. You can also reset the file (command at the bottom).  
+
+By clicking `Score`, you can see the linter recommendations.   
+Change the script until it passes without notifications (while still maintaining the functionality).  
+Remember: **You can click on the line number in the linter output** to jump to that line in the script.   
+Hint: to deactivate the message about the unused variable in the loop, use `_` as the running variable. We'll learn more about it in week 3.  
+If you want the linter messages in informative German (hand-translated by Sebastian Serth and team), click "German" in the language setting in the black top bar.  
+
+Minimize this description for more screen space by clicking <span style="color:blue">Hide</span> at the right end of this section.

@@ -1,0 +1,3 @@
+FPy12 Syntax
+======================
+Fundamentals of Programming Part 2: Python
