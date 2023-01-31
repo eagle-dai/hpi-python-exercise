@@ -1,0 +1,3 @@
+FPy24 Conditions
+======================
+Fundamentals of Programming Part 2: Python
