@@ -1,0 +1,3 @@
+FPy41 Error management
+======================
+Fundamentals of Programming Part 2: Python
